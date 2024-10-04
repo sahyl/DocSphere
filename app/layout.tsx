@@ -12,7 +12,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: 'DocSphere',
+  title: 'DocsSphere',
   description:' Your go to collabrative docs platform',
 }
 

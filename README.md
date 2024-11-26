@@ -158,11 +158,11 @@ We welcome contributions! To get started:
 
 1.  Fork the repository.
     
-2.  bashCopy codegit checkout -b feature-name
+2.  git checkout -b feature-name
     
-3.  bashCopy codegit commit -m "Add your message here"
+3.  git commit -m "Add your message here"
     
-4.  bashCopy codegit push origin feature-name
+4.  git push origin feature-name
     
 5.  Open a pull request.
     
